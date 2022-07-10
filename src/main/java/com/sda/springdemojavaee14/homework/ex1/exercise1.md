@@ -5,6 +5,6 @@ Create a program that contains the following beans:
   - a body
   - 4 wheels
 - the engine consists of:
-    - cylinder
-    - head
-Use dependency injection :)
+  - cylinder
+  - head
+    Use dependency injection :)
