@@ -29,7 +29,7 @@ public class ReservationRestController {
                 new Reservation(1L, 12L, LocalDateTime.now(), LocalDateTime.now().plusHours(2),
                         "Wołek", "51124", "m@op.pl", 10, ""),
                 Reservation.builder()
-                 .id(1L)
+                 .id(2L)
                  .tableNumber(12L)
                  .startBookingTime(LocalDateTime.now())
                  .endBookingTime(LocalDateTime.now().plusHours(2))
